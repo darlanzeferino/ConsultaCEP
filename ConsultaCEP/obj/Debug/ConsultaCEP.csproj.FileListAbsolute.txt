@@ -12,17 +12,3 @@ C:\Users\darla\Imagens\Consulta CEP\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCE
 C:\Users\darla\Imagens\Consulta CEP\ConsultaCEP\ConsultaCEP\bin\Debug\Correios.dll
 C:\Users\darla\Imagens\Consulta CEP\ConsultaCEP\ConsultaCEP\bin\Debug\Correios.pdb
 C:\Users\darla\Imagens\Consulta CEP\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.CopyComplete
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.exe.config
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.exe
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.pdb
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\bin\Debug\Correios.dll
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\bin\Debug\Correios.pdb
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.AssemblyReference.cache
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.SuggestedBindingRedirects.cache
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.frmCep.resources
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.Properties.Resources.resources
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.GenerateResource.cache
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.CoreCompileInputs.cache
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.CopyComplete
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.exe
-C:\wamp64\www\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
